@@ -33,7 +33,8 @@ function App() {
                   <a class="nav-link" href="#gallery">Gallery</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href='#contact'>Contact Us</a>
+                  {/* <a class="nav-link" href='#contact'>Contact Us</a> */}
+                  <a class="nav-link" href="//wa.me/919249974347" target="_blank">Chat on WhatsApp</a>
                 </li>
               </ul>
             </div>
